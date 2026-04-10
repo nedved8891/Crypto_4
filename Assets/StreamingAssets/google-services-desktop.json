@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124262769863",
+    "project_id": "arbitcore-120c2",
+    "storage_bucket": "arbitcore-120c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124262769863:android:2813c9a7aa696f2aa0cae2",
+        "android_client_info": {
+          "package_name": "com.arbitcore.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzvpOABQrs7cKOtQFwlwXTUy5ZWEEy7_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
